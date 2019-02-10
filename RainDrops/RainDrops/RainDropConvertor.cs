@@ -37,6 +37,10 @@ namespace RainDrops
                     result += item.Value;
                 }
             }
+            if (result == "")
+            {
+                return numberToConvert.ToString();
+            }
             return result;
         }
 
