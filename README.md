@@ -1,1 +1,1 @@
-# Rain-Drops
+# Rain-Drops bug resolved in the Third commit
